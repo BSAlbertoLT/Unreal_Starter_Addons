@@ -73,3 +73,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# =========================================================
+# Unreal Engine - Epic content you usually should NOT
+# redistribute in a PUBLIC repository
+# =========================================================
+# Epic Games Content
+Content/Epic/*

@@ -1,0 +1,25 @@
+# =========================================================
+# Unreal Engine - Epic content you usually should NOT
+# redistribute in a PUBLIC repository
+# =========================================================
+# Epic Games Content
+Content/Epic/*
+You can either 
+
+A) 
+	1.- Create a Third Person Project;
+		Move the content of this repository into an already started 
+		third person template.
+	2.- Move Epic's Content;
+		Move all the content from the template into a new folder, 
+		called Epic at root.
+	3.- Move this content;
+		Move all the content from this project into the same content 
+		folder.
+B)
+	1.- Clone this project.
+	2.- Add Third Person template;
+		Under Add Feature / Content Pack, add a third person template
+	3.- Move Epic's Content;
+		Move all the content from the template into a new folder, 
+		called Epic at root
