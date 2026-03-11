@@ -1,0 +1,28 @@
+//clone
+git clone url
+
+//stage
+git add.
+
+//commit
+git commit -m "Your commit message"
+
+//fetch
+git fetch origin
+
+//push
+git push origin main
+
+//change credentials for this repo
+git config user.name "name"
+git config user.email "user@here.com"
+
+-----------------------------------
+
+//Add different upstream
+git remote add label url
+//example:
+//git remote add teacher https://github.com/BSAlbertoLT/Unreal_Starter_Addons
+
+//pull from teacher's repo
+git pull teacher main
